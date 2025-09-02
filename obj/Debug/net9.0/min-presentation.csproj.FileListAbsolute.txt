@@ -1,0 +1,15 @@
+/Users/johnjr/Documents/Backend Cloud/FörstaKursen/Vecka2/V2övningMinPresentation/min-presentation/bin/Debug/net9.0/min-presentation
+/Users/johnjr/Documents/Backend Cloud/FörstaKursen/Vecka2/V2övningMinPresentation/min-presentation/bin/Debug/net9.0/min-presentation.deps.json
+/Users/johnjr/Documents/Backend Cloud/FörstaKursen/Vecka2/V2övningMinPresentation/min-presentation/bin/Debug/net9.0/min-presentation.runtimeconfig.json
+/Users/johnjr/Documents/Backend Cloud/FörstaKursen/Vecka2/V2övningMinPresentation/min-presentation/bin/Debug/net9.0/min-presentation.dll
+/Users/johnjr/Documents/Backend Cloud/FörstaKursen/Vecka2/V2övningMinPresentation/min-presentation/bin/Debug/net9.0/min-presentation.pdb
+/Users/johnjr/Documents/Backend Cloud/FörstaKursen/Vecka2/V2övningMinPresentation/min-presentation/obj/Debug/net9.0/min-presentation.GeneratedMSBuildEditorConfig.editorconfig
+/Users/johnjr/Documents/Backend Cloud/FörstaKursen/Vecka2/V2övningMinPresentation/min-presentation/obj/Debug/net9.0/min-presentation.AssemblyInfoInputs.cache
+/Users/johnjr/Documents/Backend Cloud/FörstaKursen/Vecka2/V2övningMinPresentation/min-presentation/obj/Debug/net9.0/min-presentation.AssemblyInfo.cs
+/Users/johnjr/Documents/Backend Cloud/FörstaKursen/Vecka2/V2övningMinPresentation/min-presentation/obj/Debug/net9.0/min-presentation.csproj.CoreCompileInputs.cache
+/Users/johnjr/Documents/Backend Cloud/FörstaKursen/Vecka2/V2övningMinPresentation/min-presentation/obj/Debug/net9.0/min-presentation.sourcelink.json
+/Users/johnjr/Documents/Backend Cloud/FörstaKursen/Vecka2/V2övningMinPresentation/min-presentation/obj/Debug/net9.0/min-presentation.dll
+/Users/johnjr/Documents/Backend Cloud/FörstaKursen/Vecka2/V2övningMinPresentation/min-presentation/obj/Debug/net9.0/refint/min-presentation.dll
+/Users/johnjr/Documents/Backend Cloud/FörstaKursen/Vecka2/V2övningMinPresentation/min-presentation/obj/Debug/net9.0/min-presentation.pdb
+/Users/johnjr/Documents/Backend Cloud/FörstaKursen/Vecka2/V2övningMinPresentation/min-presentation/obj/Debug/net9.0/min-presentation.genruntimeconfig.cache
+/Users/johnjr/Documents/Backend Cloud/FörstaKursen/Vecka2/V2övningMinPresentation/min-presentation/obj/Debug/net9.0/ref/min-presentation.dll
